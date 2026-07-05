@@ -1,0 +1,8 @@
+{
+  "name": "lokesh-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Basireddy Lokeswara Reddy",
+  "scripts": {
+    "start": "npx serve . --listen 5000"
+  }
+}
